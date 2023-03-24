@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/zcstr/devsecopstemplate/devsecopstemplate/machinelearning/mlflow/mlruns/0/1f9eccaf7d81438cb9c46e25a5fc9c39/artifacts
+end_time: 1679688141482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f9eccaf7d81438cb9c46e25a5fc9c39
+run_name: rogue-lark-51
+run_uuid: 1f9eccaf7d81438cb9c46e25a5fc9c39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679688141438
+status: 3
+tags: []
+user_id: zcstr
