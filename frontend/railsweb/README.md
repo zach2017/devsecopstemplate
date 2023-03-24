@@ -1,0 +1,1 @@
+# devsecopstemplate - Frontend Web App
