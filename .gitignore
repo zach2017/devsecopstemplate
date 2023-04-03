@@ -107,3 +107,4 @@ backend/dotnet/protobuf/tutorial/GrpcGreeterClient/bin
 backend/dotnet/protobuf/tutorial/GrpcGreeter/.vs/
 backend/dotnet/protobuf/tutorial/GrpcGreeter/bin/
 backend/dotnet/protobuf/tutorial/GrpcGreeter/obj/
+frontend/reactjsweb/simpleweb/test-results/
