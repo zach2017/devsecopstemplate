@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+backend/dotnet/protobuf/tutorial/GrpcGreeterClient/obj
+backend/dotnet/protobuf/tutorial/GrpcGreeterClient/bin
+backend/dotnet/protobuf/tutorial/GrpcGreeter/.vs/
+backend/dotnet/protobuf/tutorial/GrpcGreeter/bin/
+backend/dotnet/protobuf/tutorial/GrpcGreeter/obj/
