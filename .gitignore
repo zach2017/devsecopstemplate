@@ -108,3 +108,6 @@ backend/dotnet/protobuf/tutorial/GrpcGreeter/.vs/
 backend/dotnet/protobuf/tutorial/GrpcGreeter/bin/
 backend/dotnet/protobuf/tutorial/GrpcGreeter/obj/
 frontend/reactjsweb/simpleweb/test-results/
+backend/java/springio/simpleapp/.gradle
+backend/java/springio/simpleapp/bin
+backend/java/springio/simpleapp/build
